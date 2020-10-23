@@ -1,6 +1,4 @@
-#--------------------------------------------------------------
-
-Visualizar projeto
+#-------------------------------------------------------------- Visualizar projeto
 #--------------------------------------------------------------
 
 Baixe o projeto "https://github.com/WilliamDeveloper/nlw3_trilha_discovery.git"
