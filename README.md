@@ -1,28 +1,15 @@
 #--------------------------------------------------------------
 
-visualizar projeto
+Visualizar projeto
 #--------------------------------------------------------------
 
-baixe o projeto "https://github.com/WilliamDeveloper/nlw3_trilha_discovery.git"
-copie o conteudo da branche para uma pasta em "c:/nlw/"
-abra o terminal do git-bash
+Baixe o projeto "https://github.com/WilliamDeveloper/nlw3_trilha_discovery.git"
+Copie o conteudo da branche para uma pasta em "c:/nlw/"
+Abra o terminal do git-bash
 cd /c/nlw
-crie os dados do sqlite node src/database/test_criar_banco.js
-inicie o projeto npm start
-abre o browser na url "http://127.0.0.1:5500/"
-#--------------------------------------------------------------
-
-ajustes extras feitos apos concluir o projeto
-#-------------------------------------------------------------- foi adicionado um componente de select com estados na pagina inicial com a ideia de selecionar o estado e persistir no banco depois mas devido a indisponibilidade de tempo deixo apenas como exemplo para quem quiser implementar
-
-foi adicionado a funcionalidade do "partials" no "hbs" para compor pagina hbs com pedaços de outras paginas e poder reutilizar componentes
-
-#--------------------------------------------------------------
-
-PASSOS USADOS
-#--------------------------------------------------------------
-
-#--------------------------------------------------------------
+Crie os dados do sqlite node src/database/test_criar_banco.js
+Inicie o projeto npm start
+Abre o browser na url "http://127.0.0.1:5500/"
 
 start projeto nodejs
 #-------------------------------------------------------------- cd /c/nlw mkdir -p /c/nlw/src touch /c/nlw/src/server.js touch /c/nlw/readme.md $ npn init -y
@@ -32,9 +19,9 @@ start projeto nodejs
 dependencias
 #-------------------------------------------------------------- #dependencia de webservice rotas npm install express
 
-#dependencia que da restart no servidor quando o arquivo se altera npm install nodemon
+#Dependencia que da restart no servidor quando o arquivo se altera npm install nodemon
 
-dependencia para tranformar a pagina em algo tipo jsp https://handlebarsjs.com/
+Dependencia para tranformar a pagina em algo tipo jsp https://handlebarsjs.com/
 npm install hbs
 
 sqlite
