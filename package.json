@@ -1,7 +1,7 @@
 {
   "name": "NLW",
   "version": "1.0.0",
-  "description": "",
+  "description": "visualizar projeto\r #--------------------------------------------------------------",
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/server.js"
@@ -14,5 +14,14 @@
     "hbs": "^4.1.1",
     "nodemon": "^2.0.5",
     "sqlite-async": "^1.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexsandro-Alves/Projeto-Orfanato.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alexsandro-Alves/Projeto-Orfanato/issues"
+  },
+  "homepage": "https://github.com/Alexsandro-Alves/Projeto-Orfanato#readme"
 }
