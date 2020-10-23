@@ -12,7 +12,7 @@ Inicie o projeto npm start
 Abre o browser na url "http://127.0.0.1:5500/"
 
 start projeto nodejs
-#-------------------------------------------------------------- cd /c/nlw mkdir -p /c/nlw/src touch /c/nlw/src/server.js touch /c/nlw/readme.md $ npn init -y
+#-------------------------------------------------------------- cd /c/nlw mkdir -p /c/nlw/src touch /c/nlw/src/server.js touch /c/nlw/readme.md $ npm init -y
 
 #--------------------------------------------------------------
 
