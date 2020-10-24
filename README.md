@@ -1,13 +1,15 @@
 # Visualizar projeto
 #### Baixe o projeto "https://github.com/WilliamDeveloper/nlw3_trilha_discovery.git"
 
-#### Copie o conteudo da branche para uma pasta em "c:/nlw/"
+#### Copie o conteudo da branch para uma pasta em "c:/nlw/"
 
 #### Abra o terminal do git-bash   cd /c/nlw
 
 #### Crie os dados do sqlite node src/database/test_criar_banco.js
 
-#### Inicie o projeto    npm start
+# Inicie o projeto    
+
+npm start
 
 #### Abre o browser na url "http://127.0.0.1:5500/"
 
